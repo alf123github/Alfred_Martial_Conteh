@@ -1,3 +1,4 @@
+
 import React from "react";
 import AboutImg from "../assets/about-img.png";
 
@@ -11,9 +12,8 @@ const About = () => {
           </h2>
 
           <p className="pb-5">
-            Hi, My Name Is Rohima Akther everyone calls me Amrin. I am a
-            Frontend Developer. I build beautifull websites with React and
-            Tailwind CSS.
+            Hi, My Name is Alfred Marshall Conteh, student in at the university of Management and Technology
+            studying Computer Science. This is for learning purpose only. Thank you
           </p>
           <p className="pb-5">
             I am proficient in Frontend skills like React.js, Redux, Redux Tool
